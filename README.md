@@ -152,6 +152,5 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Authors
 
-
-dana elshrbiny <contact@danaelshrbiny.com>
-sara mabrouk <saramabrouk99@gmail.com>
+- dana elshrbiny <contact@danaelshrbiny.com>
+- sara mabrouk <saramabrouk99@gmail.com>
